@@ -41,7 +41,7 @@ for k in K:
     km = km.fit(data2)
     ssd.append(km.inertia_)
 
-plt.figure()
+plt.figure(figsize=(10,6))
 plt.plot(K, ssd, '-bx')
 plt.xlabel('Clusters')
 plt.ylabel('Distance')
