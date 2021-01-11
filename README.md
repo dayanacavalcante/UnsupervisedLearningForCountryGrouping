@@ -2,13 +2,19 @@
 
 HELP International is a humanitarian ONG committed to combating poverty and providing basic needs to the poorest countries in situations of calamity and natural disasters.
 
+The data used in this problem was taken from Kaggle. Follow the link: https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data
+
 ### _The Problem_
 
 HELP International raised about $10 million. And in order to use this money strategically and effectively, the ONG's CEO must make his decision in choosing the countries most in need, through the help of Data Science resources.
 
 In this problem, the Elbow Method was applied and KMeans was used.
 
+![](/Graphics/ElbowMethod.png)
+
 With the help of the seaborn library and the scatterplot function, the cluster with the lowest gdpp and income can be observed.
+
+![](/Graphics/scatterplot.png)
 
 ### _The chosen countries_
 
