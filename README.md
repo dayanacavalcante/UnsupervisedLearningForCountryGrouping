@@ -10,11 +10,11 @@ HELP International raised about $10 million. And in order to use this money stra
 
 In this problem, the Elbow Method was applied and KMeans was used.
 
-  <img src = "Graphics/ElbowMethod.png" width = "400"> 
+<img src = "Graphics/ElbowMethod.png" width = "70%"> 
 
 With the help of the seaborn library and the scatterplot function, the cluster with the lowest gdpp and income can be observed.
 
-<img src = "Graphics/scatterplot.png" width = "400">
+<img src = "Graphics/scatterplot.png" width = "70%"> 
 
 ### _The chosen countries_
 
