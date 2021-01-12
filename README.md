@@ -8,7 +8,7 @@ The data used in this problem was taken from Kaggle. Follow the link: https://ww
 
 HELP International raised about $10 million. And in order to use this money strategically and effectively, the ONG's CEO must make his decision in choosing the countries most in need, through the help of Data Science resources.
 
-In this problem, the Elbow Method was applied and KMeans was used.
+In this problem, the Elbow Method and KMeans were applied.
 
 <img src = "Graphics/ElbowMethod.png" width = "70%"> 
 
